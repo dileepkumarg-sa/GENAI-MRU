@@ -30,7 +30,6 @@ We will use the following technologies throughout the course:
 ---
 
 ## 🗂️ Folder Structure
-## 🗂️ Folder Structure
 
 Generative-AI-Course/
 ├── notebooks/              # Jupyter notebooks with lab implementations
